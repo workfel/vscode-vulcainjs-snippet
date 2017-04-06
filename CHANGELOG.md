@@ -1,0 +1,1 @@
+# Vulcainjs Typescript Snippet Changelog

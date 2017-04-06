@@ -1,0 +1,39 @@
+{
+    "name": "vscode-vulcainjs-snippets",
+    "publisher": "workfel",
+    "displayName": "Vulcainjs TypeScript Snippets",
+    "description": "Vulcainjs with TypeScript snippets.",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/workfel/vscode-vulcainjs-snippet.git"
+    },
+    "keywords": [
+        "Node.js",
+        "Nodejs",
+        "Microservice",
+        "TypeScript",
+        "Vulcain",
+        "Vulcainjs"
+    ],
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "devDependencies": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+            "language": "typescript",
+            "path": "./snippets/typescript.json"
+        }]
+    }
+}
