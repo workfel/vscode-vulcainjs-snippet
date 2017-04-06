@@ -1,6 +1,6 @@
 {
     "name": "vscode-vulcainjs-snippets",
-    "publisher": "workfel",
+    "publisher": "workfel-dev",
     "displayName": "Vulcainjs TypeScript Snippets",
     "description": "Vulcainjs with TypeScript snippets.",
     "galleryBanner": {
@@ -17,7 +17,6 @@
         "Nodejs",
         "Microservice",
         "TypeScript",
-        "Vulcain",
         "Vulcainjs"
     ],
     "version": "1.0.0",

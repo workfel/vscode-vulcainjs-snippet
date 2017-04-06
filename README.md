@@ -3,6 +3,10 @@
 This extension for Visual Studio Code adds snippets for Vulcainjs for TypeScript.
 
 
+[Vulcainjs](http://www.vulcainjs.org/) is an open-Source Microservice Framework for nodejs.
+
+![Use Extension](images/use-extension.gif)
+
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
 ## Usage
