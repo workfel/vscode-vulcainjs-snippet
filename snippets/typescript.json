@@ -1,1 +1,20 @@
-{}
+{
+    "Vulcain ActionHandler": {
+        "prefix": "actionhandler",
+        "body": [
+            "import { ActionHandler, Action, DefaultActionHandler, Inject } from \"vulcain-corejs\";",
+            "\n",
+            "\n",
+            "@ActionHandler({ async: false, scope: \"?\", schema: \"$2\" })",
+            "export class $1ActionHandler extends DefaultActionHandler {",
+            "\n",
+            "@Action({ description: \"$4\", outputSchema: \"$2\" }) // action = method name (minus Async)",
+            "async $3Async() {",
+            "\n",
+            "}",
+            "\n",
+            "}"
+        ],
+        "description": "Create the actionHandler class"
+    }
+}
